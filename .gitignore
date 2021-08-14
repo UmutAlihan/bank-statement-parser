@@ -1,2 +1,5 @@
 *.pdf
 .ipynb_checkpoints/
+*.ipynb
+__pycache__/
+*.xlsx
